@@ -2,7 +2,7 @@
 # NOTE  
 
 THE WEBSITE IS CURRENTLY DOWN I DONT KNOW WHEN IT WILL BE BACK
-FOR NOW USE https://crashysleigh.github.io
+FOR NOW USE https://crashysleigh.github.io/Crashy-Sleigh
 
 # Crashy Sleigh
 
