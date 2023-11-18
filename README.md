@@ -1,5 +1,4 @@
 # Crashy Sleigh
-![Crashy Sleigh](https://repository-images.githubusercontent.com/535312580/a0323ea2-ffe4-4c76-8860-67e699b0659f)
 A game like Flappy Bird but Christmas themed and is entirely made in [Scratch](scratch.mit.edu) and using [TurboWarp](turbowarp.org) for advanced features and creating the website.
 
 # How to view code
