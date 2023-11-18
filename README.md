@@ -1,14 +1,10 @@
-
-# NOTE  
-
-Since mid-January 2023, all Freenom-based registries' domains (.tk, .ml, .ga, .cf, .gq) are down and not available: "application for new registrations is temporarily out-of-order," says the website, and according to our sources, several of the existing domains have ceased operation due to DNS resolution issues.
- 
-—from: https://www.getfreedomain.name/
-this means crashy sleigh will have to move to a different domain for now i will be using https://crashysleigh.github.io/Crashy-Sleigh
-
 # Crashy Sleigh
+![Crashy Sleigh](https://repository-images.githubusercontent.com/535312580/a0323ea2-ffe4-4c76-8860-67e699b0659f)
+A game like Flappy Bird but Christmas themed and is entirely made in [Scratch](scratch.mit.edu) and using [TurboWarp](turbowarp.org) for advanced features and creating the website.
 
-Flappy Bird but Christmas...
+# How to view code
+To see the code you can download the .sb3 file from [releases](https://github.com/RhysGit/Crashy-Sleigh/releases) or put the contents of the assets folder into a zip and change the file extension to sb3
+to open use [Scratch](scratch.mit.edu) or [TurboWarp](turbowarp.org)
 
 # Installation
 To install go to 
